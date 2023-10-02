@@ -27,7 +27,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-![OSTicket Prereq 1](https://github.com/kylewilliamsrr/osticket-prereqs/assets/144828759/321801c7-8aff-4eb5-a018-5df2ed07c056)
+
+  ![OSTicket Prereq 1](https://github.com/kylewilliamsrr/osticket-prereqs/assets/144828759/321801c7-8aff-4eb5-a018-5df2ed07c056)
 
 </p>
 <p>
@@ -46,7 +47,8 @@ Download and Install PHP Manager for IIS
 <br />
 
 <p>
-![OSTicket Prereq 4](https://github.com/kylewilliamsrr/osticket-prereqs/assets/144828759/c2ea801b-adb9-4737-acf8-88ae1deb1922)
+
+  ![OSTicket Prereq 4](https://github.com/kylewilliamsrr/osticket-prereqs/assets/144828759/c2ea801b-adb9-4737-acf8-88ae1deb1922)
 
   
 </p>
@@ -56,7 +58,8 @@ Create a Directory in C:\\ for PHP.
 <br />
 
 <p>
-![OSTicket Prereq 3](https://github.com/kylewilliamsrr/osticket-prereqs/assets/144828759/5f704562-54c7-44b8-9667-50e366a6b1da)
+
+  ![OSTicket Prereq 3](https://github.com/kylewilliamsrr/osticket-prereqs/assets/144828759/5f704562-54c7-44b8-9667-50e366a6b1da)
   
 </p>
 <p>
