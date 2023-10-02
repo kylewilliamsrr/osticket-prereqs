@@ -65,3 +65,37 @@ Create a Directory in C:\\ for PHP.
 <p>
 Install Rewrite Module
 </p>
+
+<p>
+
+  ![OSTicket Prereq 5](https://github.com/kylewilliamsrr/osticket-prereqs/assets/144828759/f698dd35-9e8b-44c4-b7b7-cd22111b003d)
+
+</p>
+<p>
+Download and Install Microsoft C++. 
+</p>
+
+<p>
+
+  ![OSTicket Prereq 6](https://github.com/kylewilliamsrr/osticket-prereqs/assets/144828759/8596b726-61b1-4a94-b54d-176078fd15e4)
+
+</p>
+
+<p>
+
+![OSTicket Prereq 7](https://github.com/kylewilliamsrr/osticket-prereqs/assets/144828759/d60e5ea4-e25c-405f-8e2a-645a2e12cc31)
+
+</p>
+
+<p>
+
+![OSTicket Prereq 8](https://github.com/kylewilliamsrr/osticket-prereqs/assets/144828759/bf10deee-14a6-43b6-bf13-a4da99fdc6b1)
+
+</p>
+
+<p>
+
+![Basic Installation](https://github.com/kylewilliamsrr/osticket-prereqs/assets/144828759/81055197-390d-46f6-b45d-138d1b5c2898)
+![Installation Complete](https://github.com/kylewilliamsrr/osticket-prereqs/assets/144828759/9b99308e-af2e-48f2-a096-042b925da6d1)
+
+</p>
