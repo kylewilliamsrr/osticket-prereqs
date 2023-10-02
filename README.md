@@ -42,7 +42,7 @@ Install IIS in Windows and enable important features.
 
 </p>
 <p>
-Download and Install PHP Manager for IIS
+Download and Install PHP Manager for IIS.
 </p>
 <br />
 
@@ -122,5 +122,6 @@ Download and Install osTicket.
 
 </p>
 <p>
-Browse Login.
+osTicket is now available to open new tickets and view the status of existing tickets. 
 </p>
+<br />
