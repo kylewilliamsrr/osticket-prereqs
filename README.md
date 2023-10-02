@@ -36,7 +36,7 @@ Install IIS in Windows and enable important features.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 ![OSTicket Prereq 2](https://github.com/kylewilliamsrr/osticket-prereqs/assets/144828759/3421f2e6-c1f4-43bc-85cc-bd227b638ff7)
 
 </p>
@@ -46,7 +46,6 @@ Download and Install PHP Manager for IIS
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 ![OSTicket Prereq 4](https://github.com/kylewilliamsrr/osticket-prereqs/assets/144828759/c2ea801b-adb9-4737-acf8-88ae1deb1922)
 
   
