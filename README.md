@@ -31,22 +31,35 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Install IIS in Windows and enable important features.
 </p>
 <br />
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![OSTicket Prereq 2](https://github.com/kylewilliamsrr/osticket-prereqs/assets/144828759/3421f2e6-c1f4-43bc-85cc-bd227b638ff7)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Download and Install PHP Manager for IIS
 </p>
 <br />
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![OSTicket Prereq 4](https://github.com/kylewilliamsrr/osticket-prereqs/assets/144828759/c2ea801b-adb9-4737-acf8-88ae1deb1922)
+
+  
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Create a Directory in C:\\ for PHP.
 </p>
 <br />
+
+<p>
+![OSTicket Prereq 3](https://github.com/kylewilliamsrr/osticket-prereqs/assets/144828759/5f704562-54c7-44b8-9667-50e366a6b1da)
+  
+</p>
+<p>
+Install Rewrite Module
+</p>
