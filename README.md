@@ -32,7 +32,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 </p>
 <p>
-Install IIS in Windows and enable important features.
+To install osTicket, you first need a webserver such as IIS with Rewrite Module installed, as well as the latest versions of PHP and MySQl. Start by installing IIS in Windows and enabling important features.
 </p>
 <br />
 
@@ -63,7 +63,7 @@ Create a Directory in C:\\ for PHP.
   
 </p>
 <p>
-Install Rewrite Module.
+Install Rewrite Module for IIS.
 </p>
 
 <p>
@@ -72,7 +72,7 @@ Install Rewrite Module.
 
 </p>
 <p>
-Download and Install Microsoft C++. 
+Download and install Microsoft C++ so that applications are running smoothly. 
 </p>
 <br />
 
@@ -82,7 +82,7 @@ Download and Install Microsoft C++.
 
 </p>
 <p>
-Download and Install MySQL Server.
+Download and install MySQL Server.
 </p>
 <br />
 
@@ -102,7 +102,7 @@ Register PHP.
 
 </p>
 <p>
-Download and Install Heidi SQL.
+Download and install Heidi SQL.
 </p>
 <br />
 
@@ -112,7 +112,7 @@ Download and Install Heidi SQL.
 
 </p>
 <p>
-Download and Install osTicket.
+Now you can download and install osTicket.
 </p>
 <br />
 
