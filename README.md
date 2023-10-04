@@ -112,7 +112,7 @@ Download and install Heidi SQL so that you can observe and edit data from MySQL.
 
 </p>
 <p>
-Now you can download and install osTicket.
+Now you can download and install osTicket. Start by inputing a Helpdesk name and a default system email. Based on your departments standard operating procedures input an administrator account email and password. More users can be added later. Lastly, type in your database username and password. 
 </p>
 <br />
 
@@ -122,6 +122,6 @@ Now you can download and install osTicket.
 
 </p>
 <p>
-osTicket is now available to open new tickets and view the status of existing tickets. 
+Installation is complete. osTicket is now available to open new tickets and resolve and view existing tickets. 
 </p>
 <br />
