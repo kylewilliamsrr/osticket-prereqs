@@ -102,7 +102,7 @@ Register PHP.
 
 </p>
 <p>
-Download and install Heidi SQL.
+Download and install Heidi SQL so that you can observe and edit data from MySQL.
 </p>
 <br />
 
